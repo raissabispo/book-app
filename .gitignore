@@ -1,0 +1,14 @@
+# Ignorar dependências
+book-app/node_modules/
+backend-2/node_modules/
+
+# Ignorar variáveis de ambiente
+book-app/.env
+backend-2/.env
+
+# Ignorar arquivos e pastas do macOS
+__MACOSX/
+.DS_Store
+
+# Logs
+*.log
